@@ -1,0 +1,6 @@
+goo;count
+Strawberry mango🍓🥭;1
+Watermelon lemon🍉🍋;0
+Strawberry lime🍓🍋;2
+Blueberry raspberry🫐🍓;9
+Blueberry menthol🫐🍃;5
